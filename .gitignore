@@ -1,0 +1,11 @@
+#variaveis de ambiente
+src/env/
+
+#node Modules
+/node_modules
+
+#notas
+/_notes
+
+#database
+/database
